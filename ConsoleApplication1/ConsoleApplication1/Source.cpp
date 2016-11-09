@@ -1,11 +1,12 @@
 //用向量方式实现高精度运算和输出
 //源代码将在github上开放 详情见CBYstudio
+//代码已在Github上公开
 #include<iostream>
 #include<vector>
 using namespace std;
 int main()
 {
-	int n;
+	int n = 0;
 	cout << "请输入一个正整数";
 	cin >> n;
 	int cn;
